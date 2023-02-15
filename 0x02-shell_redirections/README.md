@@ -1,1 +1,1 @@
-a script that displays a confused smiley
+a script that decodes acrostics that use the first letter of each line.
